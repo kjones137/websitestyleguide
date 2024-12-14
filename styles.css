@@ -1,0 +1,98 @@
+h1 {
+    text-align: center;
+    font-family: Pacifico;
+    text-decoration: underline;
+    font-size: 60px;
+    color: blue;
+}
+
+
+.color-container {
+    margin-left: 25%;
+    margin-right: 25%;
+    outline: 2px solid black;
+    padding: 0 0;
+}
+
+.color-container div {
+    height: 270px;
+    width: 416.5px;
+    display: inline-block;
+    text-align: center;
+    outline: 2px solid black;
+}
+
+
+.color-label {
+    font-size: 40px;
+}
+
+.hex-label {
+    font-size: 30px;
+}
+.lavenderpanel {
+    background-color: lavender;
+}
+
+.orchidpanel  {
+    background-color: orchid;
+}
+
+.bluepanel {
+    background-color: blue;
+    color: white;
+}
+
+.lightyellowpanel {
+    background-color: lightyellow;
+}
+
+.font-container {
+    margin-left: 25%;
+    margin-right: 25%;
+    outline: 2px solid orchid;
+}
+
+.font-container div {
+    border: 2px solid orchid;
+    text-align: center;
+}
+
+.titilliumweb {
+    font-family: "Titillium Web";
+}
+
+.rubik {
+    font-family: Rubik;
+}
+
+.bebasneue {
+    font-family: "Bebas Neue";
+}
+
+h2 {
+    font-family: Satisfy; 
+    border: none;
+    font-size: 40px;
+    text-align: center;
+}
+
+.text-container {
+    outline: 2px solid rgb(104, 104, 195);
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
+}
+
+.text-type {
+    border: 2px solid rgb(104, 104, 195);
+    text-align: left;
+}
+
+p {
+    font-size: "Titillium Web";
+}
+
+.subheader {
+    text-align: center;
+}
